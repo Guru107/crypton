@@ -1,3 +1,3 @@
 # crypton
 
-[https://crypton.io](https://crypton.io)
+[https://spideroak.com/solutions/crypton-framework](https://spideroak.com/solutions/crypton-framework)

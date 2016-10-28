@@ -11,7 +11,7 @@ Zero-Knowledge applications offer meaningful privacy assurance to end users
 because the servers running the application cannot read the data created and
 stored by the application.
 
-To learn more, check out the [Crypton website](https://crypton.io/).
+To learn more, check out the [Crypton website](https://spideroak.com/solutions/crypton-framework).
 
 # Install dependencies
 

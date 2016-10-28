@@ -22,7 +22,7 @@ describe('Card', function() {
   var username = 'drzhivago';
   var appname = 'noneofyourfingbizness';
   var fingerprint = 'fbc42d5f1dc4e42b3b02338eef5364670461f4bb02b80b66263407011619d092';
-  var url = 'https://crypton.io';
+  var url = 'https://spideroak.com/solutions/crypton-framework';
 
   // helper functions //////////////////////////////////////////////////////
 
