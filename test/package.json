@@ -6,22 +6,22 @@
   "homepage": "https://spideroak.com/solutions/crypton-framework",
   "license": "MPL-2.0",
   "repository": {
-    "type": "git",
-    "url": "git://github.com/SpiderOak/crypton.git"
+	"type": "git",
+	"url": "git://github.com/SpiderOak/crypton.git"
   },
   "engines": {
-    "node": "4.2.x"
+	"node": "8.2.x"
   },
   "dependencies": {},
   "devDependencies": {
-    "chai": "4.1.1",
-    "mocha": "3.5.0",
-    "mocha-phantomjs": "^4.0.1",
-    "phantomjs": "2.1.7",
-    "semver": "^5.0.3"
+	"chai": "4.1.1",
+	"mocha": "3.5.0",
+	"mocha-phantomjs": "^4.0.1",
+	"phantomjs": "2.1.7",
+	"semver": "^5.0.3"
   },
   "optionalDependencies": {},
   "scripts": {
-    "test": "make test"
+	"test": "make test"
   }
 }
